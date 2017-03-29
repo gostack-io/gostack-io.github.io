@@ -1,5 +1,5 @@
 # Site settings (baseurl must end with a trailing slash!)
-baseurl = "https://gostack.io"
+baseurl = "https://gostack.io/"
 title = "gostack.io"
 languageCode = "en-us"
 theme = "grid-side"
