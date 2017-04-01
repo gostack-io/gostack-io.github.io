@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gostack.io</title>
-    <link>https://gostack-io.github.io/index.xml</link>
-    <description>Recent content on gostack.io</description>
+    <title>Blogs on gostack.io</title>
+    <link>https://gostack-io.github.io/blog/index.xml</link>
+    <description>Recent content in Blogs on gostack.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; tobybot11</copyright>
     <lastBuildDate>Sat, 01 Apr 2017 16:53:01 -0400</lastBuildDate>
-    <atom:link href="https://gostack-io.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gostack-io.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>gostack is born!</title>
@@ -23,18 +23,6 @@
 &lt;p&gt;I was tooling around kubernetes and found this minimalist image based on busybox and I thought to myself.. this could easily be rewritten in go.. and sure enough it was and this gave me an idea for the first project to be included in the gostack distribution!&lt;/p&gt;
 
 &lt;p&gt;Happy Birthday Elke!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>https://gostack-io.github.io/about/</link>
-      <pubDate>Sat, 10 Dec 2016 00:15:46 -0500</pubDate>
-      
-      <guid>https://gostack-io.github.io/about/</guid>
-      <description>&lt;p&gt;Why gostack?&lt;/p&gt;
-
-&lt;p&gt;What is it?&lt;/p&gt;
 </description>
     </item>
     

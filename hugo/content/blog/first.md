@@ -1,6 +1,6 @@
 +++
-date = "2017-04-01T12:00:00-05:00"
-draft = true
+date = "2017-04-01T16:53:01-04:00"
+draft = false
 title = "gostack is born!"
 subtitle = "not an april fools joke!"
 author = "Toby"
