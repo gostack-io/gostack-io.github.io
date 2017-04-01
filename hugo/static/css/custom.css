@@ -1,7 +1,7 @@
 /* your styles go here */
 
 
-body, h2, h3, .heading h2, .heading h3, .text-uppercase, .btn, .navbar ul.nav > li > a {
+body, h1, h2, h3, #heading-breadcrumbs h1, .home-carousel h1, .heading h1, .heading h2, .heading h3, .text-uppercase, .btn, .navbar ul.nav > li > a {
   font-family: Rubik, serif; 
   text-transform: lowercase;
 }
