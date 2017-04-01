@@ -14,9 +14,6 @@ copyright = "Copyright &#169; tobybot11"
 # front matter of specific content.
 disqusShortname = "tobybot11-io"
 
-#[Permalinks]
-#    blog = "/blog/:year/:month/:day/:filename/"
-
 [menu]
 
 [[menu.main]]
@@ -43,6 +40,12 @@ disqusShortname = "tobybot11-io"
     # TODO - make a gostack.io email server before doing thisr
     email = "toby.ford@pobox.com"
 
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
+
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
+
 [params.widgets]
     categories = true
     tags = true
@@ -54,11 +57,12 @@ disqusShortname = "tobybot11-io"
 [params.recent_posts]
     enable = true
     title = "from our blog"
+    subtitle = "oven"
 
 [params.see_more]
     enable = true
     icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "Check out our Git repo."
+    title = "do you want to see more?"
+    subtitle = "check out our Git repo."
     link_url = "https://github.com/gostack-io"
-    link_text = "Github Repo"
+    link_text = "github repo"
