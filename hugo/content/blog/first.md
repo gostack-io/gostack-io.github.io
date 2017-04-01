@@ -4,6 +4,7 @@ draft = true
 title = "gostack is born!"
 subtitle = "not an april fools joke!"
 author = "Toby"
+banner = "img/posts.jpg"
 
 +++
 

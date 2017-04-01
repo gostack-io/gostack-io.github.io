@@ -17,12 +17,22 @@ disqusShortname = "tobybot11-io"
 [menu]
 
 [[menu.main]]
-    name = "Home"
+    name = "home"
     url  = "/"
     weight = 1
 
+[[menu.main]]
+    name = "blog"
+    url  = "/blog"
+    weight = 2
+
+[[menu.main]]
+    name = "about"
+    url  = "/about"
+    weight = 2
+
 [params]
-    style = "red"
+    style = "blue"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -57,7 +67,7 @@ disqusShortname = "tobybot11-io"
 [params.recent_posts]
     enable = true
     title = "from our blog"
-    subtitle = "oven"
+    subtitle = ""
 
 [params.see_more]
     enable = true
