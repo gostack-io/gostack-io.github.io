@@ -1,0 +1,16 @@
+/* your styles go here */
+
+
+body, h2, h3, .heading h2, .heading h3, .text-uppercase, .btn, .navbar ul.nav > li > a {
+  font-family: Rubik, serif; 
+  text-transform: lowercase;
+}
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
