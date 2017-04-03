@@ -1,9 +1,9 @@
 # Site settings (baseurl must end with a trailing slash!)
-baseurl = "https://gostack-io.github.io/"
 title = "gostack.io"
-languageCode = "en-us"
+baseurl = "https://gostack-io.github.io/"
 theme = "hugo-universal-theme"
-copyright = "Copyright &#169; tobybot11"
+copyright = "Copyright &#169 2017; tobybot11"
+languageCode = "en-us"
 
 # The theme uses pagination for post, gallery, and project listings.
 #paginate = 12
