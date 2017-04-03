@@ -33,6 +33,7 @@ disqusShortname = "tobybot11-io"
 
 [params]
     style = "blue"
+    copyright = "Copyright &#169;2017 tobybot11"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
